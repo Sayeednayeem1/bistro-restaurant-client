@@ -6,6 +6,9 @@ export default {
   ],
   theme: {
     extend: {},
+    fontFamily: {
+      foodText: ["Shantell Sans, cursive"],
+    }
   },
   plugins: [require("daisyui")],
 }
