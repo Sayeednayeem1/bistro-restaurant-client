@@ -29,9 +29,6 @@ const NavBar = () => {
                         {navItems}
                     </ul>
                 </div>
-                <div className="navbar-end">
-                    <a className="btn">Button</a>
-                </div>
             </div>
         </>
     );
