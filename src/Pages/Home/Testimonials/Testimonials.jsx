@@ -39,7 +39,6 @@ const Testimonials = () => {
                             />
                             <RiDoubleQuotesL className="text-9xl" />
                             <p>{review.details}</p>
-                            <i class="fa-solid fa-quote-left"></i>
                             <h2 className="text-2xl text-orange-700">{review.name}</h2>
                         </div>
                     </SwiperSlide>)
